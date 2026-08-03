@@ -1,21 +1,33 @@
 function candy(ratings: number[]): number {
-    let n = ratings.length;
-    let candi: number[] = new Array(n).fill(1);
+    if(ratings.length ==0){
+        return 0;
+    }
+    let res = 1 , up = 0, down = 0, peak = 0;
 
-    for(let i = 1; i < n; i++){
-        if(ratings[i] > ratings[i-1]){
-            candi[i] = candi[i-1] + 1;
+    for(let i = 1; i < ratings.length; i++){
+        let prev = ratings[i-1];
+        let curr = ratings[i];
+
+        if(prev < curr){
+            up++;
+            down = 0;
+            peak = up;
+            res += 1 + up;
+        }
+        else if(prev == curr){
+            up = 0;
+            down = 0;
+            peak = 0;
+            res += 1;
+        }
+        else{
+            up = 0;
+            down++;
+            res += 1 + down;
+            if(peak >= down){
+                res--;
+            }
         }
     }
-        for(let i = n-2; i >= 0; i--){
-           if(ratings[i+1] < ratings[i] && candi[i+1] >= candi[i]){
-            candi[i] = candi[i+1] + 1;
-        }
-        }
-        let result = 0;
-        for(let i = 0; i < n; i++){
-            result += candi[i];
-        }
-        return result;
-    
+    return res;
 };
