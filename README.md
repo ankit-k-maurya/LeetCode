@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ankit-k-maurya/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ankit-k-maurya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ankit-k-maurya/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/ankit-k-maurya/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ankit-k-maurya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ankit-k-maurya/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ankit-k-maurya/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankit-k-maurya/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankit-k-maurya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/ankit-k-maurya/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ankit-k-maurya/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
