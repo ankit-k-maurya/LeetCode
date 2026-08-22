@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ankit-k-maurya/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ankit-k-maurya/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ankit-k-maurya/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/ankit-k-maurya/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankit-k-maurya/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ankit-k-maurya/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ankit-k-maurya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankit-k-maurya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/ankit-k-maurya/LeetCode/tree/master/0224-basic-calculator) |
+| [0383-ransom-note](https://github.com/ankit-k-maurya/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ankit-k-maurya/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
