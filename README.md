@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ankit-k-maurya/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankit-k-maurya/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ankit-k-maurya/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/ankit-k-maurya/LeetCode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ankit-k-maurya/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ankit-k-maurya/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankit-k-maurya/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankit-k-maurya/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/ankit-k-maurya/LeetCode/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ankit-k-maurya/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ankit-k-maurya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankit-k-maurya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/ankit-k-maurya/LeetCode/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/ankit-k-maurya/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ankit-k-maurya/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankit-k-maurya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankit-k-maurya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/ankit-k-maurya/LeetCode/tree/master/0224-basic-calculator) |
 ## Doubly-Linked List
 |  |
 | ------- |
