@@ -1,5 +1,4 @@
 function wordPattern(pattern: string, s: string): boolean {
-    // FIX: Remove invalid named parameter syntax
     let arr: string[] = s.split(' ');
     if (pattern.length !== arr.length) return false;
 
@@ -7,7 +6,6 @@ function wordPattern(pattern: string, s: string): boolean {
     const wordToPattern = new Map<string, string>();
 
     for (let i = 0; i < pattern.length; i++) {
-        // FIX: Extract the pattern character and the corresponding word
         const char = pattern[i];
         const word = arr[i];
 
