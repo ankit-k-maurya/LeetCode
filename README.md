@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit-k-maurya/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankit-k-maurya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankit-k-maurya/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ankit-k-maurya/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/ankit-k-maurya/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ankit-k-maurya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankit-k-maurya/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ankit-k-maurya/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ankit-k-maurya/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ankit-k-maurya/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ankit-k-maurya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankit-k-maurya/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ankit-k-maurya/LeetCode/tree/master/0242-valid-anagram) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankit-k-maurya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ankit-k-maurya/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
