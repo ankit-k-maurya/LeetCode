@@ -14,17 +14,32 @@
 
 function isSymmetric(root: TreeNode | null): boolean {
     if (root === null) return true;
+
+    const leftTree: (TreeNode | null)[] = [];
+    const rightTree: (TreeNode | null)[] = [];
     
-    // Define the helper function with correct TypeScript types
-    function isSymmetricHelp(left: TreeNode | null, right: TreeNode | null): boolean {
-        if (left === null || right === null) return left === right;
+    leftTree.push(root.left);
+    rightTree.push(root.right);
+    
+    while (leftTree.length > 0 && rightTree.length > 0) {
+        // TypeScript needs to know pop() might return undefined if empty, 
+        // so we use the non-null assertion operator (!) since we know it's not empty
+        const leftNode = leftTree.pop()!;
+        const rightNode = rightTree.pop()!;
 
-        if (left.val !== right.val) return false;
+        if (leftNode === null && rightNode === null) continue;
+
+        if (leftNode === null || rightNode === null) return false;
+
+        if (leftNode.val !== rightNode.val) return false;
+
+        // Order matters: push outer children, then inner children
+        leftTree.push(leftNode.left);
+        leftTree.push(leftNode.right);
         
-        return isSymmetricHelp(left.left, right.right) &&
-               isSymmetricHelp(left.right, right.left);
+        rightTree.push(rightNode.right);
+        rightTree.push(rightNode.left);
     }
+    return true;
+}
 
-    // Call the helper function
-    return isSymmetricHelp(root.left, root.right);
-};
