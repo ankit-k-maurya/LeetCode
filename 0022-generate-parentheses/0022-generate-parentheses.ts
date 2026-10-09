@@ -1,22 +1,22 @@
-function generateParenthesis(n: number): string[] { 
-    const ans: string[] = [];
-    const cur: string[] = [];
-    function dfs(open: number, close: number): void {
-        if (open === 0 && close === 0) {
-            ans.push(cur.join(''));
+function generateParenthesis(n: number): string[] {
+    const result: string[] = [];
+
+    function dfs(left: number, right: number, s: string): void {
+        if (s.length === n * 2) {
+            result.push(s);
             return;
         }
-        if (open > 0) {
-            cur.push('(');
-            dfs(open - 1, close);
-            cur.pop();
+
+        if (left < n) {
+            dfs(left + 1, right, s + '(');
         }
-        if (close > open) {
-            cur.push(')');
-            dfs(open, close - 1);
-            cur.pop();
+
+        if (right < left) {
+            dfs(left, right + 1, s + ')');
         }
     }
-    dfs(n, n);
-    return ans;
+
+    dfs(0, 0, '');
+
+    return result;
 };
