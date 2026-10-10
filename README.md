@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankit-k-maurya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankit-k-maurya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ankit-k-maurya/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ankit-k-maurya/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ankit-k-maurya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankit-k-maurya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankit-k-maurya/LeetCode/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit-k-maurya/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ankit-k-maurya/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ankit-k-maurya/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ankit-k-maurya/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ankit-k-maurya/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ankit-k-maurya/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ankit-k-maurya/LeetCode/tree/master/0274-h-index) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankit-k-maurya/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankit-k-maurya/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ankit-k-maurya/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ankit-k-maurya/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ankit-k-maurya/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ankit-k-maurya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ankit-k-maurya/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/ankit-k-maurya/LeetCode/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -500,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/ankit-k-maurya/LeetCode/tree/master/0052-n-queens-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankit-k-maurya/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
