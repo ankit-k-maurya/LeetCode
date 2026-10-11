@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ankit-k-maurya/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ankit-k-maurya/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/ankit-k-maurya/LeetCode/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankit-k-maurya/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0909-snakes-and-ladders](https://github.com/ankit-k-maurya/LeetCode/tree/master/0909-snakes-and-ladders) |
 ## Two Pointers
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ankit-k-maurya/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ankit-k-maurya/LeetCode/tree/master/0169-majority-element) |
+| [0427-construct-quad-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0427-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ankit-k-maurya/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ankit-k-maurya/LeetCode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/ankit-k-maurya/LeetCode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/ankit-k-maurya/LeetCode/tree/master/0909-snakes-and-ladders) |
 ## Linked List
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankit-k-maurya/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankit-k-maurya/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankit-k-maurya/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
